@@ -15,6 +15,9 @@
   "unpublishedApplicationDetail": {
     "appPositioning": {
       "type": "FIXED"
+    },
+    "navigationSetting": {
+      "logoAssetId": "65cb2bbba863a679b92b690c"
     }
   },
   "color": "#CCCCCC",
