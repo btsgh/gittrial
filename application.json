@@ -15,10 +15,21 @@
   "unpublishedApplicationDetail": {
     "appPositioning": {
       "type": "FIXED"
+    },
+    "navigationSetting": {
+      "showNavbar": true,
+      "orientation": "top",
+      "navStyle": "inline",
+      "position": "static",
+      "itemStyle": "text",
+      "colorStyle": "theme",
+      "logoAssetId": "65cb2bbba863a679b92b690c",
+      "logoConfiguration": "noLogoOrApplicationTitle",
+      "showSignIn": true
     }
   },
   "color": "#CCCCCC",
-  "icon": "card",
+  "icon": "product",
   "unpublishedCustomJSLibs": [],
   "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
